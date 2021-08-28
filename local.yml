@@ -1,5 +1,5 @@
 ---
-- hosts: 127.0.0.1
+- hosts: DESKTOP-Q9NDR3G
   become_method: runas
   become_user: Administrator
   vars:
