@@ -1,5 +1,5 @@
 ---
-- hosts: DESKTOP-Q9NDR3G
+- hosts: localhost
   become_method: runas
   become_user: Administrator
   vars:
